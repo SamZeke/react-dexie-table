@@ -1,2 +1,2 @@
-# react-dexie-table
+# material-pills
 Created with CodeSandbox
